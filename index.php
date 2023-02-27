@@ -10,9 +10,10 @@
     <link rel="manifest" href="./images/site.webmanifest" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-lime.min.css" />
+    <link rel="stylesheet" href="stylesheet.css" />
   </head>
 
-  <body style="background-colour:brown;">
+  <body class="background">
   <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
   <center><h1 id="title">NAME AND EMAIL FORM</h1></center>
   <h2 class="subtitle">Please fill out the form below:</h2>
