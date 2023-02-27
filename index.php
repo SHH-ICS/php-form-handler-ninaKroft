@@ -13,7 +13,7 @@
   <body>
   <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
     <?php
-    echo "<h1>Hello, World!</h1>\n";
+    echo "<h1>Hello, World!</h1>";
     ?>
     <form action="handler.php" method="post">
 Name: <input type="text" name="name"><br>
