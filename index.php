@@ -12,13 +12,10 @@
     <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-lime.min.css" />
   </head>
 
-  <body>
+  <body style="background-colour:brown;">
   <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
   <center><h1 id="title">NAME AND EMAIL FORM</h1></center>
   <h2 class="subtitle">Please fill out the form below:</h2>
-    <?php
-    echo "<h1>Hello, World!</h1>";
-    ?>
     <form action="handler.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
