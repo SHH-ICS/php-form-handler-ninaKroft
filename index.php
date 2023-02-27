@@ -12,6 +12,8 @@
 
   <body>
   <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+  <center><h1 id="title">NAME AND EMAIL FORM</h1></center>
+  <h2 class="subtitle">Please fill out the form below:</h2>
     <?php
     echo "<h1>Hello, World!</h1>";
     ?>
