@@ -2,7 +2,7 @@
 <html>
   <head>
     <link rel="stylesheet" href="styles.css">
-    <title>Page Title</title>
+    <title>First php web page</title>
   </head>
 
   <body>
